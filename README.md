@@ -2,7 +2,7 @@
 - 👀 I’m interested in robotics and learning languages and frameworks like Flask and Django
 - 🌱 I’m currently learning Django and web development.
 - 💞️ I’m looking to collaborate on Python projects and other projects on web development using other languages.
--  📫 How to reach me: email- rithurikarabo@gmail.com, LinkedIn: 
+-  📫 How to reach me: email- rithurikarabo@gmail.com, LinkedIn: https://www.linkedin.com/in/karabo-rithuri-422883196
 
 <!---
 KRithuri/KRithuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
