@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karabo from South Africa. I'm an undergraduate at the University of Johannesburg, studying Bcom in Information Systems. 
 - 👀 I’m interested in robotics and learning languages and frameworks like Flask and Django
-- 🌱 I’m currently learning Django and web development.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on Python projects and other projects on web development using other languages.
 -  📫 How to reach me: email- rithurikarabo@gmail.com, LinkedIn: https://www.linkedin.com/in/karabo-rithuri-422883196
 
