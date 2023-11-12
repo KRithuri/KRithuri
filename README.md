@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Karabo from South Africa. I'm an undergraduate at the University of Johannesburg, studying Bcom in Information Systems. 
+# 👋 Hi, I’m Karabo Rithuri from South Africa.
+## I'm an undergraduate at the University of Johannesburg, studying Bcom in Information Systems. 
+
+[![My Skills](https://skills.thijs.gg/icons?i=python,html,css,bootstrap,js,git,react)](https://skills.thijs.gg)
+
 - 👀 I’m interested in robotics and learning languages and frameworks like Flask and Django
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on Python projects and other projects on web development using other languages.
