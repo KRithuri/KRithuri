@@ -35,7 +35,7 @@
 - 📫 How to reach me **rithurikarabo@gmail.com**
 ---
 ### :hammer_and_wrench: Languages and Tools
-[![My Skills](https://skills.thijs.gg/icons?i=python,mysql,html,css,bootstrap,js,git,react,mysql)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=python,mysql,html,css,bootstrap,js,git,react)](https://skills.thijs.gg)
 
 ---
 
