@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Karabo Rithuri from South Africa.
 ## I'm a Bcom in Information Systems undergraduate at the University of Johannesburg. 
 
+## Languages and Skills
 [![My Skills](https://skills.thijs.gg/icons?i=python,html,css,bootstrap,js,git,react)](https://skills.thijs.gg)
 
 - 👀 I’m interested in coding and robotics.
