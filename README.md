@@ -15,7 +15,7 @@
   <a href="https://www.twitter.com/KaraboRithuri_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter Badge"/>
   </a>
-   <a href="https://www.github.com/KRihuri">
+   <a href="https://www.github.com/KRithuri">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
