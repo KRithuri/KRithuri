@@ -6,7 +6,7 @@
 - 👀 I’m interested in coding and robotics.
 - 🌱 I’m currently learning React.js.
 - 💞️ I’m looking to collaborate on Python, React.js projects and other projects on web development using other languages.
--  📫 How to reach me:
+## 📫 How to reach me:
 <!--social media buttons -->
    [![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
    [![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
