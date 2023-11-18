@@ -30,7 +30,8 @@
 ###  :woman_technologist: About ME:
 - I'm a Bcom in Information Systems undergraduate at the University of Johannesburg.
 - 👀 I’m interested in coding and robotics.
-- 🌱 I’m currently learning React.js.
+- 🛠️ I am a back-end developer
+- 🌱 I’m currently learning React.js & Django.
 - 💞️ I’m looking to collaborate on Python, React.js projects and other projects on web development using other languages.
 - 📫 How to reach me **rithurikarabo@gmail.com**
 ---
