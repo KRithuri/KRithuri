@@ -32,7 +32,7 @@
 - 👀 I’m interested in coding and robotics.
 - 🛠️ I am a back-end developer
 - 🍂 I am proficient in Python, C#, HTML, CSS, SQL
-- 🌱 I’m currently learning React.js 
+- 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on Python, React.js projects and other projects on web development using other languages.
 - 📫 How to reach me **rithurikarabo@gmail.com**
 ---
