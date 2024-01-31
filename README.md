@@ -33,7 +33,7 @@
 - 🛠️ I am a back-end developer
 - 🍂 I am proficient in Python, C#, HTML, CSS, SQL
 - 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on Python, React.js projects and other projects on web development using other languages.
+- 💞️ I’m looking to collaborate on Python, Java, C# and other projects on web and app development using other languages.
 - 📫 How to reach me **rithurikarabo@gmail.com**
 ---
 ### :hammer_and_wrench: Languages
