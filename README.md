@@ -33,11 +33,13 @@
 - 🛠️ I am a back-end developer
 - 🍂 I am proficient in Python, C#, HTML, CSS, SQL
 - 🌱 I’m currently learning .NET MAUI 
-- 💞️ I’m looking to collaborate on Python, Java, C# and other projects on web and app development using other languages.
+- 💞️ I’m looking to collaborate on web and app development applications.
 - 📫 How to reach me **rithurikarabo@gmail.com**
 ---
-### :hammer_and_wrench: Languages
-[![My Skills](https://skills.thijs.gg/icons?i=python,cs,java,mysql,html,css,bootstrap,js,git,react)](https://skills.thijs.gg)
+### :hammer_and_wrench: Skills
+<!--[![My Skills](https://skills.thijs.gg/icons?i=python,cs,java,mysql,html,css,bootstrap,js,git,react)](https://skills.thijs.gg)-->
+
+[![My Skills](https://skillicons.dev/icons?i=python,cs,mysql,html,css,bootstrap,js,react,java,figma,git)](https://skillicons.dev)
 
 ---
 ### 🔧 Tools and Software
@@ -55,8 +57,7 @@
 
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KRithuri&theme=dark&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) . [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRithuri&layout=compact&theme=dark&border_radius=4.8)](https://github.com/KRithuri)
-<!---
-KRithuri/KRithuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Karabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRithuri&theme=gruvbox_dark&show_icons=true) <br> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KRithuri&theme=dark&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) . [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRithuri&layout=compact&theme=dark&border_radius=4.8)](https://github.com/KRithuri) . 
+<!--KRithuri/KRithuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
