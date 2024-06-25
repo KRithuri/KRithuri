@@ -32,7 +32,7 @@
 - 👀 I’m interested in coding and robotics.
 - 🛠️ I am a back-end developer
 - 🍂 I am proficient in Python, C#, HTML, CSS, SQL
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning .NET MAUI 
 - 💞️ I’m looking to collaborate on Python, Java, C# and other projects on web and app development using other languages.
 - 📫 How to reach me **rithurikarabo@gmail.com**
 ---
