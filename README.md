@@ -31,7 +31,7 @@
 - I'm a Bcom in Information Systems undergraduate at the University of Johannesburg.
 - 👀 I’m interested in coding and robotics.
 - 🛠️ I am a back-end developer
-- 🍂 I am proficient in Python, C#, HTML, CSS, SQL
+- 🍂 I am proficient in Python, C#, HTML, CSS, SQL, Firebase, PowerBI
 - 🌱 I’m currently learning .NET MAUI 
 - 💞️ I’m looking to collaborate on web and app development applications.
 - 📫 How to reach me **rithurikarabo@gmail.com**
@@ -39,7 +39,7 @@
 ### :hammer_and_wrench: Skills
 <!--[![My Skills](https://skills.thijs.gg/icons?i=python,cs,java,mysql,html,css,bootstrap,js,git,react)](https://skills.thijs.gg)-->
 
-[![My Skills](https://skillicons.dev/icons?i=python,cs,mysql,html,css,bootstrap,js,react,java,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,mysql,firebase,html,css,bootstrap,js,react,java,figma,git)](https://skillicons.dev)
 
 ---
 ### 🔧 Tools and Software
